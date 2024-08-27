@@ -1,4 +1,5 @@
 import logging
+import requests
 from telegram import __version__ as TG_VER
 
 try:
